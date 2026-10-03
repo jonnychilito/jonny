@@ -1,14 +1,44 @@
-# Agrofit
+# 🏋️‍♂️ AGROFIT
 
-Agrofit es un sistema desarrollado para apoyar la gestión del gimnasio del SENA, facilitando la administración de usuarios, entrenadores, aprendices y rutinas de entrenamiento.
+> 💪 **Sistema de gestión y seguimiento para el gimnasio del SENA**
 
-El proyecto busca mejorar el proceso de asignación y seguimiento de rutinas, permitiendo organizar la información de los usuarios y facilitar el acceso a sus planes de entrenamiento.
+**Agrofit** es un proyecto desarrollado para facilitar la gestión del gimnasio del **SENA**, permitiendo organizar usuarios, entrenadores y aprendices, además de administrar y asignar **rutinas de entrenamiento** de una manera más sencilla y organizada.
 
-Este proyecto hace parte del proceso de formación del programa **Tecnólogo en Análisis y Desarrollo de Software (ADSO) del SENA**.
+🎯 **Objetivo:** mejorar el proceso de gestión de rutinas y facilitar el seguimiento de los planes de entrenamiento de los usuarios.
 
-### Tecnologías utilizadas
+---
 
-* Python
-* MySQL / MariaDB
-* Git y GitHub
-* Visual Studio Code
+## 🚀 Funcionalidades
+
+👤 **Gestión de usuarios**
+🔐 **Inicio de sesión y autenticación**
+🏋️ **Gestión de entrenadores**
+🎓 **Gestión de aprendices**
+📋 **Asignación de rutinas**
+💪 **Consulta de rutinas de entrenamiento**
+📊 **Organización y seguimiento de información**
+
+---
+
+## 🛠️ Tecnologías
+
+🐍 **Python** — Lógica y desarrollo del sistema
+🗄️ **MySQL / MariaDB** — Gestión de la base de datos
+💻 **Visual Studio Code** — Entorno de desarrollo
+🌱 **Git** — Control de versiones
+🐙 **GitHub** — Repositorio y colaboración
+
+---
+
+## 🎓 Proyecto académico
+
+Agrofit es desarrollado como parte del proceso de formación del programa:
+
+**📚 Tecnólogo en Análisis y Desarrollo de Software (ADSO)**
+**🏢 Servicio Nacional de Aprendizaje — SENA**
+
+---
+
+### 💡 ¿Qué busca Agrofit?
+
+> Transformar la gestión tradicional del gimnasio en un proceso más **organizado, accesible y eficiente**, utilizando herramientas de desarrollo de software para facilitar la administración y el seguimiento de los entrenamientos. 💪🔥
